@@ -9,8 +9,8 @@ To start using the Rust Web Framework, follow these simple steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/rust-web-framework.git
-   cd rust-web-framework
+   https://github.com/RahulDev2004/Lebro.git
+   cd Lebro
 
 2. **Clone the repository:**
    Use Cargo, Rust's package manager, to build the project.
@@ -52,6 +52,6 @@ We appreciate your contributions!
 
 The Rust Web Framework is open-source and available under the MIT License. Please review the [LICENSE](LICENSE) file for detailed information.
 
-&copy; 2023 Your Name
+&copy; 2023 Rahul B
 
  
